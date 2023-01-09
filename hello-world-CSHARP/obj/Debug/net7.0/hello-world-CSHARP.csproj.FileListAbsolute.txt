@@ -1,0 +1,15 @@
+C:\Users\ekric\OneDrive\Desktop\Science Project Code\Non-exe\hello-world-CSHARP\bin\Debug\net7.0\hello-world-CSHARP.exe
+C:\Users\ekric\OneDrive\Desktop\Science Project Code\Non-exe\hello-world-CSHARP\bin\Debug\net7.0\hello-world-CSHARP.deps.json
+C:\Users\ekric\OneDrive\Desktop\Science Project Code\Non-exe\hello-world-CSHARP\bin\Debug\net7.0\hello-world-CSHARP.runtimeconfig.json
+C:\Users\ekric\OneDrive\Desktop\Science Project Code\Non-exe\hello-world-CSHARP\bin\Debug\net7.0\hello-world-CSHARP.dll
+C:\Users\ekric\OneDrive\Desktop\Science Project Code\Non-exe\hello-world-CSHARP\bin\Debug\net7.0\hello-world-CSHARP.pdb
+C:\Users\ekric\OneDrive\Desktop\Science Project Code\Non-exe\hello-world-CSHARP\obj\Debug\net7.0\hello-world-CSHARP.csproj.AssemblyReference.cache
+C:\Users\ekric\OneDrive\Desktop\Science Project Code\Non-exe\hello-world-CSHARP\obj\Debug\net7.0\hello-world-CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekric\OneDrive\Desktop\Science Project Code\Non-exe\hello-world-CSHARP\obj\Debug\net7.0\hello-world-CSHARP.AssemblyInfoInputs.cache
+C:\Users\ekric\OneDrive\Desktop\Science Project Code\Non-exe\hello-world-CSHARP\obj\Debug\net7.0\hello-world-CSHARP.AssemblyInfo.cs
+C:\Users\ekric\OneDrive\Desktop\Science Project Code\Non-exe\hello-world-CSHARP\obj\Debug\net7.0\hello-world-CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\ekric\OneDrive\Desktop\Science Project Code\Non-exe\hello-world-CSHARP\obj\Debug\net7.0\hello-world-CSHARP.dll
+C:\Users\ekric\OneDrive\Desktop\Science Project Code\Non-exe\hello-world-CSHARP\obj\Debug\net7.0\refint\hello-world-CSHARP.dll
+C:\Users\ekric\OneDrive\Desktop\Science Project Code\Non-exe\hello-world-CSHARP\obj\Debug\net7.0\hello-world-CSHARP.pdb
+C:\Users\ekric\OneDrive\Desktop\Science Project Code\Non-exe\hello-world-CSHARP\obj\Debug\net7.0\hello-world-CSHARP.genruntimeconfig.cache
+C:\Users\ekric\OneDrive\Desktop\Science Project Code\Non-exe\hello-world-CSHARP\obj\Debug\net7.0\ref\hello-world-CSHARP.dll

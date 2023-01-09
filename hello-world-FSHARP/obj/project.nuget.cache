@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i00ExDnN2gaYnT8nV+7ANc+WqF+J3pcP3sIGOQUWZb3UX068SvZyleHWfS78YvDbLQs5vweWq21WyLHeqKMVTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ekric\\OneDrive\\Desktop\\Science Project Code\\Non-exe\\hello-world-FSHARP\\hello-world-FSHARP.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ekric\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
